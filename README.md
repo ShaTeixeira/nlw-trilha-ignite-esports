@@ -1,2 +1,12 @@
-# nlw-trilha-ignite-esports
-Desenvolvido durante a NLW eSports
+# Trilha Ignite eSports - NLW
+
+[Acesse aqui]()
+
+[photo]()
+
+# Tecnologias 
+- Vite.js
+- React.js
+- Typescript 
+- Prisma
+ - SQLite
